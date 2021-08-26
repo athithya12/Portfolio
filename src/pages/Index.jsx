@@ -1,5 +1,5 @@
 import React from 'react';
-// import About from '../containers/About';
+import About from '../containers/About';
 // import Contact from '../containers/Contact';
 import Home from '../containers/Home/Home';
 // import Projects from '../containers/Projects';
@@ -7,7 +7,7 @@ import Home from '../containers/Home/Home';
 const Index = () => (
   <>
     <Home />
-    {/* <About /> */}
+    <About />
     {/* <Projects />
     <Contact /> */}
   </>
