@@ -1,3 +1,3 @@
-const headerItems = ['HOME', 'ABOUT', 'PROJECTS', 'CONTACTS'];
+const headerItems = ['HOME', 'ABOUT', 'PROJECTS', 'CONTACT'];
 
 export default headerItems;
